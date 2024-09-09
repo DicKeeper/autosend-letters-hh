@@ -1,5 +1,7 @@
 # AutoSend Letters HeadHunter
 
+НЕ РАБОТАЕТ
+
 ## Описание проекта
 **AutoSend Letters HeadHunter** — это скрипт для автоматической отправки откликов на HeadHunter (hh).
 
